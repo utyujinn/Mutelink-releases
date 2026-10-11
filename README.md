@@ -1,5 +1,5 @@
-<p align="center"><img src="https://github.com/utyujinn/mutelink-releases/wiki/images/home-icon.png" width="120" alt="Mutelinkのアイコン"></p>
-<p align="center"><img src="https://github.com/utyujinn/mutelink-releases/wiki/images/home-banner.png" width="640" alt="Mutelink"></p>
+<p align="center"><img src="https://github.com/utyujinn/Mutelink-releases/wiki/images/home-icon.png" width="120" alt="Mutelinkのアイコン"></p>
+<p align="center"><img src="https://github.com/utyujinn/Mutelink-releases/wiki/images/home-banner.png" width="640" alt="Mutelink"></p>
 
 # Mutelink
 

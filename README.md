@@ -1,6 +1,3 @@
-<p align="center"><img src="https://github.com/utyujinn/Mutelink-releases/wiki/images/home-icon.png" width="120" alt="Mutelinkのアイコン"></p>
-<p align="center"><img src="https://github.com/utyujinn/Mutelink-releases/wiki/images/home-banner.png" width="640" alt="Mutelink"></p>
-
 # Mutelink
 
 **地声は届けず、好きな声で、VRChatで話そう。**
@@ -10,12 +7,14 @@
 
 ## ダウンロード
 
-- [最新のインストーラー(Releases)](../../releases/latest)
+- [最新のインストーラー(Releases)](https://github.com/utyujinn/Mutelink-releases/releases/latest)
 - [BOOTHの商品ページ](https://utyujin.booth.pm/items/8914909)(支援版の購入と、利用規約・返金・免責の案内も、こちらにあります)
 
 ## 使い方・困ったとき
 
-- [Wiki](../../wiki): はじめかた、基本の使い方、設定、VR機能、トラブルシューティング、Q&A、更新履歴
+[Mutelinkの案内サイト](https://utyujinn.github.io/Mutelink-releases/)に、はじめかた、声の聞き比べ、音声認識・翻訳の比較、困ったときの対処、Q&A、更新履歴をまとめています。
+
+設定や操作の詳しい説明は、アプリ内の「？」から確認できます。
 
 ## お問い合わせ
 
